@@ -1,7 +1,5 @@
 Your assignment for today is to create a parking garage class to get more familiar with Object Oriented Programming(OOP). This project would usually be a pair programming project. However, for the size our class we will have groups of 3. This means, that one person(The driver) will code the project while the other people(The navigators)will brainstorm and guide to a working solution.
 
-CCCC
-
 Each of you should share/switch these roles every 30mins-1hr -- Or you may elect to switch "drivers" after creating specific methods of the class.
 
 The Initial Driver needs to Make sure to:
@@ -43,3 +41,11 @@ When the project is completed, commit the final changes, sync all pull requests,
 
 ###### List group responsiblities below:
 ###### Provide name and approxamite line numbers where each person wrote their code
+
+Faith - Lead GitHub repository (merged pull requests)
+   items worked on: Lines 1-20, Lines 68-84
+
+Sam - Forked repo, cloned local, set upstream to Faith, made PRs
+   items worked on: Lines 21-66
+
+Roles of Navigator and Driver were switched 3 or 4 times.
